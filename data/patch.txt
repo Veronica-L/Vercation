@@ -1,0 +1,8 @@
+{"cve_number": "CVE-2021-20294", "oss_name": "binutils", "commit": "372dd157272e0674d13372655cc60eaca9c06926", "file": "binutils/readelf.c", "patch_index":0, "cwe":"CWE-787 Out-of-bounds Write", "description": "A flaw was found in binutils readelf 2.35 program. An attacker who is able to convince a victim using readelf to read a crafted file could trigger a stack buffer overflow, out-of-bounds write of arbitrary data supplied by the attacker. The highest impact of this flaw is to confidentiality, integrity, and availability."}
+{"cve_number": "CVE-2018-10373", "oss_name": "binutils", "commit": "6327533b1fd29fa86f6bf34e61c332c010e3c689", "file": "bfd/dwarf2.c", "patch_index":0}
+{"cve_number": "CVE-2018-10372", "oss_name": "binutils", "commit": "6aea08d9f3e3d6475a65454da488a0c51f5dc97d", "file": "binutils/dwarf.c", "patch_index":0}
+{"cve_number": "CVE-2019-9074", "oss_name": "binutils", "commit": "179f2db0d9c397d7dd8a59907b84208b79f7f48c", "file": "bfd/pei-x86_64.c", "patch_index":1}
+{"cve_number": "CVE-2019-17451", "oss_name": "binutils", "commit": "336bfbeb1848f4b9558456fdcf283ee8a32d7fd1", "file": "bfd/dwarf2.c", "patch_index":0}
+{"cve_number": "CVE-2020-16590", "oss_name": "binutils", "commit": "c98a4545dc7bf2bcaf1de539c4eb84784680eaa4", "file": "binutils/readelf.c", "patch_index":0}
+{"cve_number": "CVE-2020-16591", "oss_name": "binutils", "commit": "001890e1f9269697f7e0212430a51479271bdab2", "file": "binutils/readelf.c", "patch_index":0}
+{"cve_number": "CVE-2020-16593", "oss_name": "binutils", "commit": "aec72fda3b320c36eb99fc1c4cf95b10fc026729", "file": "bfd/dwarf2.c", "patch_index":0}

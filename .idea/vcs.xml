@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/binutils/0faed9a75423269c0dafc25636d2e3a6a796d126" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/binutils/372dd157272e0674d13372655cc60eaca9c06926" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/binutils/372dd157272e0674d13372655cc60eaca9c06926/binutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/binutils/6327533b1fd29fa86f6bf34e61c332c010e3c689" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/binutils/binutils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/binutils/e9301e762ab6d533f7110d6c9c1dbe8e68e875d7" vcs="Git" />
+  </component>
+</project>
