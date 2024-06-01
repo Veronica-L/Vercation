@@ -7,6 +7,7 @@ This is the source code package for paper "Vercation: Precise Vulnerable Open-so
 
 - Python environment: Python 3.8
 - Requirements: `pip install -r requirements.txt`
+- Clang 10.0.0
 
 ## Running
 We provide test vulnerability data in `data/patch.txt`
