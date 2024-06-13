@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "sk-proj-l1LgkT4ppbm8FZ4NtalIT3BlbkFJSafFB5BWnXmBHKdw7eXC"
+openai.api_key = "xxxxxx"
 
 def generate_prompt_and_completion(cve_data, prompt_end = "\n####\n", completion_end = "\n<|endoftext|>"):
     ret_dict = {}
