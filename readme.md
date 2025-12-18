@@ -29,3 +29,7 @@ If you want to test in your own vulnerability data
 - In the Joern workspace, use `cpg.method($name).dotDdg.l > ddg.json` to generate DDG, CFG and AST as the same, then put the result into `json` folder
 - Provide the patch information of vulnerability like `data/patch.txt` folder
 - Provide your own opensi key in `LLM/gpt_use.py`
+
+
+## Dataset
+The dataset (including CVE-fixing commits, PoC links, and manually verified vulnerable version ranges) is accessible via this link: [https://docs.google.com/spreadsheets/d/1vOIAZa1O513DFPrypxyQKN0xSKFDxd-D/edit?usp=sharing&ouid=104270835705105371516&rtpof=true&sd=true]. Please specify your reason for request when applying; we will grant access as soon as possible.
